@@ -2,8 +2,6 @@ import itertools
 import os
 from copy import copy
 
-RULES_NAME = 'rules'
-
 
 def _load_input():
     folder = os.path.dirname(__file__)
